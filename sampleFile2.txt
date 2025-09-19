@@ -1,2 +1,1 @@
-revert commit 2
 This is sample file 2
